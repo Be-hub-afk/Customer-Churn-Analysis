@@ -58,13 +58,7 @@ XGBClassifier classification report
 
 ![graph5](./images/Heatmap.png)
 
-Heatmap generated from SyriaTel data 
-
-### For More Information
-
-Please review our full analysis in analysis.ipynb or our [presentation](./DS_Project_Presentation.pdf).
-
-For any additional questions, please contact Armun Shakeri ashakeri62@gmail.com 
+Heatmap generated from SyriaTel 
 
 ## Repository Structure
 
